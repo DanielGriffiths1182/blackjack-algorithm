@@ -1,6 +1,3 @@
-Blackjack Algorithm 
-homework, sept. 15 2016
-
 This program is facilitating the user's decision making while playing the card game, Blackjack. 
 Do you hit, do you call? This program will help you answer these questions during a game of Blackjack.
 
