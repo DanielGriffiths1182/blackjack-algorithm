@@ -1,4 +1,4 @@
-This program is facilitating the user's decision making while playing the card game, Blackjack. 
+This program is facilitating the user's decision making while playing the card game, Blackjack.
 Do you hit, do you call? This program will help you answer these questions during a game of Blackjack.
 
 1. User input value of first card.
@@ -8,4 +8,4 @@ Do you hit, do you call? This program will help you answer these questions durin
 
 This application will repeat this process until the user enters a value of "", or 0.
 
-Enjoy playing Blackjack. DO NOT take to Vegas.
+Enjoy playing Blackjack.
