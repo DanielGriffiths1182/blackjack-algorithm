@@ -1,8 +1,9 @@
-Blackjack Assistance Code
-Blackjack homework sept 15
+Blackjack Algorithm 
+homework, sept. 15 2016
 
 This program is facilitating the user's decision making while playing the card game, Blackjack. 
-Do you hit, do you call? This program will help you answer these questions through one round of the game.
+Do you hit, do you call? This program will help you answer these questions during a game of Blackjack.
+
 1. User input value of first card.
 2. User will input value of second card.
 3. User will input value of dealer's face up card.
